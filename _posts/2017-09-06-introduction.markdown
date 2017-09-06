@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
-date:   2017-09-06 20:12:51 +0000
+date:   2017-09-06 16:12:52 -0400
 ---
 
 Indecision. Trying to choose between your passions and what was marketable. Conflicting advice on which way was the right way. Your parents spending a lot of money. You, eventually going with the flow despite your doubts.
