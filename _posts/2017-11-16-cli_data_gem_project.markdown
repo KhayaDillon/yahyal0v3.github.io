@@ -21,4 +21,5 @@ One of the things I had dwelled a lot on throughout the process was whether my s
 
 Working backwords, one of the final things I had to do was actually scrape data from the two sites instead of having placement filler. Summarizing the process of the actual program, the scraper methods iterate through the website's best sellers list and stores each book's data in a hash. The collectable module, shared by both the Amazon and Barnes & Noble class, then uses the scraped hash to create book instances, store them in the class's .all_books method, and then lists the best sellers using .all_books.  
 
+[Gem published to RubyGems](https://rubygems.org/gems/best_selling_books)
 
