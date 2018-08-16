@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project"
-date:       2018-02-12 19:25:21 +0000
+date:       2018-02-12 14:25:22 -0500
 permalink:  sinatra_portfolio_project
 ---
 
@@ -15,4 +15,4 @@ On a difficulty level, I found this project to be easier than the last one--the 
 
 After set up, I worked on the database next by creating migrations. A user needed to have a username, password, and could have many pets. A pet needed to a name, birthdate, physical characteristics, and of course, belong to a user. After migrations, then models, one by one, I created application controller methods and their corresponding views. For a type of characteristic that had a limited selection, for example, animal classes (mammal, bird, fish, reptile, amphibian, bug), I created radio buttons with the different options instead of a text boxes.
 
-Most of the problems I ran into were from missing syntax and improper spelling. For example, accidentally writing "<%=ruby code here>" instead of "<%=ruby code here%>". I also had problems with using the patch HTTP verb to create an edit action. i ended up haing to use the post HTTP varb, and am still unsure why it did not work.
+Most of the problems I ran into were from missing syntax and improper spelling. For example, accidentally writing "<%=ruby code here>" instead of "<%=ruby code here%>". I also had problems with using the patch HTTP verb to create an edit action. I ended up having to use the post HTTP verb, and am still unsure why it did not work.
