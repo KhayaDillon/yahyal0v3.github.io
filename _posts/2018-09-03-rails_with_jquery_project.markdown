@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails with JQuery Project"
-date:       2018-09-03 16:29:48 +0000
+date:       2018-09-03 12:29:49 -0400
 permalink:  rails_with_jquery_project
 ---
 
